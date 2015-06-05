@@ -21,6 +21,7 @@ public class BubbleSort {
 		for (int ii = 0; ii < result.length; ii++){
 			System.out.print(result[ii] + " ");
 		}
+		
 	}
 
 	public static int[] BubbleSort(int[] array){
